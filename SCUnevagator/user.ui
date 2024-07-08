@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>User</class>
+ <widget class="QDialog" name="User">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>380</width>
+    <height>491</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QGraphicsView" name="head">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>121</width>
+     <height>131</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="name">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>0</y>
+     <width>142</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="inputMethodHints">
+    <set>Qt::ImhNone</set>
+   </property>
+   <property name="text">
+    <string>amap_6irSdg3......</string>
+   </property>
+   <property name="frame">
+    <bool>false</bool>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="help">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>460</y>
+     <width>96</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="tabletTracking">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>首页</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/new/prefix1/resource/manue.png</normalon>
+    </iconset>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="setting">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>460</y>
+     <width>96</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>设置</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/new/prefix1/resource/setting.png</normalon>
+    </iconset>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>460</y>
+     <width>96</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>我的</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/new/prefix1/resource/user.png</normalon>
+    </iconset>
+   </property>
+   <property name="autoDefault">
+    <bool>true</bool>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QGraphicsView" name="background">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>381</width>
+     <height>221</height>
+    </rect>
+   </property>
+  </widget>
+  <zorder>background</zorder>
+  <zorder>help</zorder>
+  <zorder>setting</zorder>
+  <zorder>pushButton_2</zorder>
+  <zorder>head</zorder>
+  <zorder>name</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
