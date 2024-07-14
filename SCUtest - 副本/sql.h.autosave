@@ -1,0 +1,19 @@
+#ifndef SQL_H
+#define SQL_H
+
+#include<QTcpSocket>
+
+class SQL
+{
+public:
+    SQL(QHostAddress adress=QHostAddress("121.36.19.243"),quin);
+    
+    
+private:
+    QHostAddress serverAdress;
+    QTcpSocket* db;
+    quint16 port;
+    
+};
+
+#endif // SQL_H
