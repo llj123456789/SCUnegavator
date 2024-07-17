@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>图书馆首页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .chat-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            padding: 20px;
+            overflow-y: auto;
+            height: 400px; /* Adjust height as needed */
+        }
+        .chat-message {
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        .user-message {
+            text-align: right;
+        }
+        .bot-message {
+            text-align: left;
+        }
+        .input-container {
+            margin-top: 20px;
+        }
+        .user-input {
+            width: calc(100% - 80px);
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px 0 0 5px;
+            font-size: 14px;
+        }
+        .send-button {
+            width: 80px;
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .send-button:hover {
+            background-color: #0056b3;
+        }
+
+    <div class="chat-container">
+        <div class="chat-message bot-message">
+            Welcome! How can I assist you today?
+        </div>
+    </div>
+    <div class="input-container">
+        <input type="text" class="user-input" placeholder="Type your message...">
+        <button class="send-button">Send</button>
+    </div>
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0 15px;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 20px;
+        }
+
+        .book-list {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .book-item {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .book-item:last-child {
+            border-bottom: none;
+        }
+
+        .sidebar {
+            background-color: #f8f8f8;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>四川大学江安图书馆</h1>
+    </header>
+    <nav>
+        <a href="..\大一下编程实战\图书馆首页.html">首页</a>
+        <a href="https://lib.scu.edu.cn/">官网入口</a>
+        <a href="..\大一下编程实战\图书馆联系方式.html">联系方式</a>
+    </nav>
+    <div class="container">
+        <div class="main-content">
+            <div class="book-list">
+                <h2>热门图书</h2>
+                <div class="book-item">
+                    <h3>百年孤独</h3>
+                    <p>哥伦比亚当代长篇小说。《百年孤独》是拉丁美洲魔幻现实主义文学流派的代表作，刻画了布恩迪亚家族七代人的传奇经历，描绘了加勒比海沿岸小镇马孔多的百年兴衰，成为20世纪最重要的经典文学巨著之一。作者以小说作品创建了一个自己的世界，一个浓缩的宇宙，映射了一片大陆及其人民的富足与贫困。</p>
+                </div>
+                <div class="book-item">
+                    <h3>不朽</h3>
+                    <p>本书内容包括脸、不朽、感情的人、偶然、钟面等。</p>
+                </div>
+                <div class="book-item">
+                    <h3>逃离</h3>
+                    <p>本书收录了艾丽丝·门罗的短篇小说，包括：《逃离》、《机缘》、《匆匆》、《沉寂》、《激情》、《侵犯》、《播弄》、《法力》，从不同角度，讲述了一群女人的“逃离”经历。</p>
+                </div>
+            </div>
+            <div class="sidebar">
+                <h2>公告</h2>
+                <p>  为给师生提供更好的阅读和学习环境，经学校批准，江安图书馆将于今年暑期进行老旧扶梯/电梯改造施工，施工时间为7月13日至8月28日。由于施工过程将产生噪音及粉尘，为确保师生的安全和健康，江安图书馆将在施工期间临时闭馆。
+
+
+
+闭馆期间，江安图书馆提供以下服务：
+
+1、
+
+江安图书馆所有可外借图书提供预约借书服务，师生可通过图书馆主页或微信公众号进行图书预约。
+
+2、
+
+在江安图书馆一楼明远文库（一楼大厅左侧）提供图书借还、咨询和毕业离校手续办理等服务，服务时间为周一至周日8:00-22:00。
+
+3、
+
+江安图书馆大门外侧24小时自助还书机继续提供服务。
+
+在此期间，学校将开放江安校区第一教学楼D座及文科楼教室供师生学习使用，图书馆将在以上两个区域提供自助借书服务。教室开放时间为周一至周日8:00-22:00。如在使用教室过程中，有疑问或意见建议，请及时联系教学楼物业管理人员或拨打后勤保障部值班电话85993001。
+
+
+
+闭馆期间，您有任何疑问或意见建议，请拨打85993198或通过馆长信箱（library@scu.edu.cn）与我们联系。</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copyright 2017， 四川大学江安图书馆. </p>
+        <p>通信地址：成都市一环路南一段24号 邮编：610065</p>
+    </footer>
+</body>
+
+</html>
