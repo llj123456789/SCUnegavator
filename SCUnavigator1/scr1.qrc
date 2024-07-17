@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resource/mapp.png</file>
+        <file>resource/icon.png</file>
+        <file>resource/manue.png</file>
+        <file>resource/setting.png</file>
+        <file>resource/suofang.png</file>
+        <file>resource/user.png</file>
+        <file>resource/map/ja.jpg</file>
+        <file>resource/moving.png</file>
+        <file>resource/search.png</file>
+        <file>resource/searchBox.png</file>
+        <file>resource/head.png</file>
+        <file>resource/map/back.png</file>
+        <file>resource/Info/node.txt</file>
+        <file>resource/Info/test.txt</file>
+        <file>resource/start.gif</file>
+        <file>resource/cancel.png</file>
+        <file>resource/ok.png</file>
+        <file>resource/archi/library.jpg</file>
+        <file>resource/browser.png</file>
+        <file>resource/position.png</file>
+        <file>resource/scu.png</file>
+        <file>resource/pass.png</file>
+        <file>resource/in.png</file>
+        <file>resource/login.png</file>
+        <file>resource/logBack.jpg</file>
+        <file>resource/chat.jpg</file>
+        <file>resource/routeBack.jpg</file>
+        <file>resource/food.png</file>
+        <file>resource/chat.png</file>
+        <file>resource/go.png</file>
+        <file>resource/urgence.png</file>
+        <file>resource/nowpos.png</file>
+        <file>resource/man.png</file>
+        <file>resource/bus.png</file>
+        <file>resource/afternoon.png</file>
+        <file>resource/green.png</file>
+        <file>resource/cheap.png</file>
+        <file>resource/fastfood.png</file>
+        <file>resource/spicy.png</file>
+        <file>resource/1.png</file>
+        <file>resource/2.png</file>
+        <file>resource/3.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resource/afternoon.png</file>
+        <file>resource/3.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>screen</class>
+ <widget class="QDialog" name="screen">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>459</width>
+    <height>105</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTextEdit" name="hint">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>0</y>
+     <width>431</width>
+     <height>61</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>31</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/new/prefix1/resource/cancel.png</normalon>
+    </iconset>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="tip1">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>60</y>
+     <width>171</width>
+     <height>37</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>8</pointsize>
+     <italic>true</italic>
+     <bold>true</bold>
+     <underline>false</underline>
+     <strikeout>false</strikeout>
+     <stylestrategy>NoAntialias</stylestrategy>
+     <hintingpreference>PreferDefaultHinting</hintingpreference>
+    </font>
+   </property>
+   <property name="cursor">
+    <cursorShape>WaitCursor</cursorShape>
+   </property>
+   <property name="mouseTracking">
+    <bool>true</bool>
+   </property>
+   <property name="tabletTracking">
+    <bool>false</bool>
+   </property>
+   <property name="focusPolicy">
+    <enum>Qt::StrongFocus</enum>
+   </property>
+   <property name="acceptDrops">
+    <bool>true</bool>
+   </property>
+   <property name="toolTip">
+    <string/>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background:transparent</string>
+   </property>
+   <property name="inputMethodHints">
+    <set>Qt::ImhNone</set>
+   </property>
+   <property name="text">
+    <string>scustu.cn@2041584846</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignBottom|Qt::AlignRight|Qt::AlignTrailing</set>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+   <property name="clearButtonEnabled">
+    <bool>false</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

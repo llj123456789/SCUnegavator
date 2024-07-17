@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>negvator</class>
+ <widget class="QMainWindow" name="negvator">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1442</width>
+    <height>810</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>negvator</string>
+  </property>
+  <property name="documentMode">
+   <bool>false</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="MyGraphicsView" name="mapView">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>941</width>
+      <height>681</height>
+     </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>2560</width>
+      <height>1440</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>60</y>
+      <width>101</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>华文行楷</family>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>WaitCursor</cursorShape>
+    </property>
+    <property name="text">
+     <string>搜索</string>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normalon>:/new/prefix1/resource/search.png</normalon>
+     </iconset>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="src">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>50</y>
+      <width>331</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>华文隶书</family>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>OpenHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border: 1px solid gray;/*设置边框的粗细，以及颜色*/
+border-radius: 10px;/*设置圆角的大小*/
+padding: 0 8px;/*如果没有内容光标在开始往后移动0.8像素点*/
+selection-background-color: darkgray;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="dest">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>90</y>
+      <width>331</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>华文隶书</family>
+     </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>OpenHandCursor</cursorShape>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border: 1px solid gray;/*设置边框的粗细，以及颜色*/
+border-radius: 10px;/*设置圆角的大小*/
+padding: 0 8px;/*如果没有内容光标在开始往后移动0.8像素点*/
+selection-background-color: darkgray;
+
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>80</y>
+      <width>72</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>华文行楷</family>
+     </font>
+    </property>
+    <property name="text">
+     <string>NOTICE</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="notice">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>70</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QFrame" name="frame">
+    <property name="geometry">
+     <rect>
+      <x>950</x>
+      <y>0</y>
+      <width>441</width>
+      <height>691</height>
+     </rect>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QLineEdit" name="information">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>10</y>
+       <width>181</width>
+       <height>28</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>SCUnegvator</string>
+     </property>
+     <property name="frame">
+      <bool>false</bool>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="readOnly">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QLabel" name="icon1">
+     <property name="geometry">
+      <rect>
+       <x>90</x>
+       <y>10</y>
+       <width>91</width>
+       <height>81</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="pixmap">
+      <pixmap resource="scr1.qrc">:/new/prefix1/resource/icon.png</pixmap>
+     </property>
+     <property name="scaledContents">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_2">
+     <property name="geometry">
+      <rect>
+       <x>1</x>
+       <y>10</y>
+       <width>81</width>
+       <height>81</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="pixmap">
+      <pixmap resource="scr1.qrc">:/new/prefix1/resource/scu.png</pixmap>
+     </property>
+     <property name="scaledContents">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QTextEdit" name="route">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>130</y>
+       <width>441</width>
+       <height>311</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true"/>
+     </property>
+     <property name="tabChangesFocus">
+      <bool>false</bool>
+     </property>
+     <property name="documentTitle">
+      <string/>
+     </property>
+     <property name="readOnly">
+      <bool>true</bool>
+     </property>
+     <property name="markdown">
+      <string/>
+     </property>
+     <property name="html">
+      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Microsoft YaHei UI'; font-size:15pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:13.5pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+     <property name="overwriteMode">
+      <bool>false</bool>
+     </property>
+     <property name="textInteractionFlags">
+      <set>Qt::TextBrowserInteraction</set>
+     </property>
+     <property name="placeholderText">
+      <string>路线信息</string>
+     </property>
+    </widget>
+    <widget class="QDateTimeEdit" name="nowTimeEdit">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>70</y>
+       <width>211</width>
+       <height>27</height>
+      </rect>
+     </property>
+     <property name="maximumDateTime">
+      <datetime>
+       <hour>23</hour>
+       <minute>59</minute>
+       <second>59</second>
+       <year>9996</year>
+       <month>12</month>
+       <day>31</day>
+      </datetime>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="timeTip">
+     <property name="geometry">
+      <rect>
+       <x>180</x>
+       <y>40</y>
+       <width>151</width>
+       <height>28</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>NOW TIME:</string>
+     </property>
+     <property name="frame">
+      <bool>false</bool>
+     </property>
+     <property name="readOnly">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="toChat">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>470</y>
+       <width>431</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: 1px solid red ;/*设置边框的粗细，以及颜色*/
+border-radius: 10px;/*设置圆角的大小*/
+padding: 0 8px;/*如果没有内容光标在开始往后移动0.8像素点*/
+selection-background-color: darkgray;
+color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(9, 41, 4, 255), stop:0.085 rgba(2, 79, 0, 255), stop:0.19 rgba(50, 147, 22, 255), stop:0.275 rgba(236, 191, 49, 255), stop:0.39 rgba(243, 61, 34, 255), stop:0.555 rgba(135, 81, 60, 255), stop:0.667 rgba(121, 75, 255, 255), stop:0.825 rgba(164, 255, 244, 255), stop:0.885 rgba(104, 222, 71, 255), stop:1 rgba(93, 128, 0, 255))</string>
+     </property>
+     <property name="text">
+      <string>聊天室</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normalon>:/new/prefix1/resource/chat.png</normalon>
+      </iconset>
+     </property>
+    </widget>
+    <widget class="QComboBox" name="comboBox">
+     <property name="geometry">
+      <rect>
+       <x>150</x>
+       <y>550</y>
+       <width>131</width>
+       <height>29</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: 1px solid red ;/*设置边框的粗细，以及颜色*/
+border-radius: 10px;/*设置圆角的大小*/
+padding: 0 8px;/*如果没有内容光标在开始往后移动0.8像素点*/
+selection-background-color: darkgray;
+color:rgb(96, 96, 255)</string>
+     </property>
+     <item>
+      <property name="text">
+       <string>休闲放松</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>:/new/prefix1/resource/position.png</normalon>
+       </iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>校园景点</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>运动健身</string>
+      </property>
+     </item>
+    </widget>
+    <widget class="QComboBox" name="comboBox_2">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>550</y>
+       <width>131</width>
+       <height>29</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: 1px solid red ;/*设置边框的粗细，以及颜色*/
+border-radius: 10px;/*设置圆角的大小*/
+padding: 0 8px;/*如果没有内容光标在开始往后移动0.8像素点*/
+selection-background-color: darkgray;
+color:rgb(89, 61, 36)</string>
+     </property>
+     <item>
+      <property name="text">
+       <string>美食</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>:/new/prefix1/resource/food.png</normalon>
+       </iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>下午茶</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>快餐</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>美味冒菜</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>便宜套饭</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>健康轻食</string>
+      </property>
+     </item>
+    </widget>
+    <widget class="QComboBox" name="comboBox_3">
+     <property name="geometry">
+      <rect>
+       <x>310</x>
+       <y>550</y>
+       <width>111</width>
+       <height>29</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: 1px solid red ;/*设置边框的粗细，以及颜色*/
+border-radius: 10px;/*设置圆角的大小*/
+padding: 0 8px;/*如果没有内容光标在开始往后移动0.8像素点*/
+selection-background-color: darkgray;
+color:rgb(170, 0, 0)</string>
+     </property>
+     <item>
+      <property name="text">
+       <string>紧急求助</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>:/new/prefix1/resource/urgence.png</normalon>
+       </iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>校警卫处</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>校医院</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>教务处</string>
+      </property>
+     </item>
+    </widget>
+    <widget class="QComboBox" name="comboBox_4">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>600</y>
+       <width>201</width>
+       <height>29</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: 1px solid red ;/*设置边框的粗细，以及颜色*/
+border-radius: 10px;/*设置圆角的大小*/
+padding: 0 8px;/*如果没有内容光标在开始往后移动0.8像素点*/
+selection-background-color: darkgray;
+color:rgb(48, 158, 255)</string>
+     </property>
+     <item>
+      <property name="text">
+       <string>导航校园出行方式</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normalon>:/new/prefix1/resource/go.png</normalon>
+       </iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>步行</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>骑行</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>校车</string>
+      </property>
+     </item>
+    </widget>
+    <widget class="LabelScroll" name="announcement_2">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>100</y>
+       <width>421</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: 1px solid red ;/*设置边框的粗细，以及颜色*/
+border-radius: 10px;/*设置圆角的大小*/
+padding: 0 8px;/*如果没有内容光标在开始往后移动0.8像素点*/
+selection-background-color: darkgray;
+color:black</string>
+     </property>
+     <property name="text">
+      <string>调整软件内时间通过上面的时间表</string>
+     </property>
+     <property name="textInteractionFlags">
+      <set>Qt::TextBrowserInteraction</set>
+     </property>
+    </widget>
+   </widget>
+   <widget class="LabelScroll" name="announcement">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>0</y>
+      <width>601</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border: 1px solid red ;/*设置边框的粗细，以及颜色*/
+border-radius: 10px;/*设置圆角的大小*/
+padding: 0 8px;/*如果没有内容光标在开始往后移动0.8像素点*/
+selection-background-color: darkgray;
+color:black</string>
+    </property>
+    <property name="text">
+     <string>YOU ARE USING TRY SCUnegavtor&lt;&gt;) if you have any suggestion you can submit (http://www.baidu.com)to 2041584846@qq.com THANK YOU</string>
+    </property>
+    <property name="textInteractionFlags">
+     <set>Qt::TextBrowserInteraction</set>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>300</width>
+     <height>40</height>
+    </size>
+   </property>
+   <property name="toolButtonStyle">
+    <enum>Qt::ToolButtonTextUnderIcon</enum>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>BottomToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="separator"/>
+   <addaction name="mainWindow"/>
+   <addaction name="search"/>
+   <addaction name="user"/>
+  </widget>
+  <action name="mainWindow">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="checked">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="scr1.qrc">
+     <normaloff>:/new/prefix1/resource/manue.png</normaloff>:/new/prefix1/resource/manue.png</iconset>
+   </property>
+   <property name="text">
+    <string>首页</string>
+   </property>
+   <property name="toolTip">
+    <string>地图首页</string>
+   </property>
+   <property name="font">
+    <font>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="visible">
+    <bool>true</bool>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::NoRole</enum>
+   </property>
+  </action>
+  <action name="user">
+   <property name="icon">
+    <iconset resource="scr1.qrc">
+     <normaloff>:/new/prefix1/resource/user.png</normaloff>:/new/prefix1/resource/user.png</iconset>
+   </property>
+   <property name="text">
+    <string>我的</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::NoRole</enum>
+   </property>
+  </action>
+  <action name="search">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>false</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="scr1.qrc">
+     <normaloff>:/new/prefix1/resource/search.png</normaloff>:/new/prefix1/resource/search.png</iconset>
+   </property>
+   <property name="text">
+    <string>搜索</string>
+   </property>
+   <property name="statusTip">
+    <string/>
+   </property>
+   <property name="whatsThis">
+    <string/>
+   </property>
+   <property name="shortcut">
+    <string/>
+   </property>
+   <property name="autoRepeat">
+    <bool>false</bool>
+   </property>
+  </action>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>MyGraphicsView</class>
+   <extends>QGraphicsView</extends>
+   <header location="global">mygraphicsview.h</header>
+  </customwidget>
+  <customwidget>
+   <class>LabelScroll</class>
+   <extends>QLabel</extends>
+   <header>labelscroll.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="scr1.qrc"/>
+ </resources>
+ <connections/>
+</ui>
