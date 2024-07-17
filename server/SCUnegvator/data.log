@@ -1,0 +1,1428 @@
+Mon Jul 15 14:05:27 2024Connected b, 21418)Mon Jul 15 14:18:56 2024select * from users where account = 0 and password='12345678';Mon Jul 15 14:19:09 2024root@sql@0@sql@12345678@sql@True@sql@True@sql@TrueMon Jul 15 14:19:09 2024Mon Jul 15 14:19:10 2024Connected by ('101.207.4.242', 21424)Mon Jul 15 14:19:13 2024SELECT canchat,canjoin FROM users WHERE account = 0 Mon Jul 15 14:19:13 2024True@sql@TrueMon Jul 15 14:19:14 2024Mon Jul 15 14:19:14 2024Connected by ('101.207.4.242', 22975)Mon Jul 15 14:55:11 2024select * from users where account = 0 and password='12345678';Mon Jul 15 14:55:19 2024root@sql@0@sql@12345678@sql@True@sql@True@sql@TrueMon Jul 15 14:55:19 2024Mon Jul 15 14:55:20 2024Connected by ('101.207.4.242', 22976)Mon Jul 15 14:55:21 2024SELECT canchat,canjoin FROM users WHERE account = 0 Mon Jul 15 14:55:21 2024True@sql@TrueMon Jul 15 14:55:21 2024Mon Jul 15 14:55:22 2024Connected by ('101.207.4.242', 23477)Mon Jul 15 15:03:47 2024select * from users where account = 0 and password='12345678';Mon Jul 15 15:03:55 2024root@sql@0@sql@12345678@sql@True@sql@True@sql@TrueMon Jul 15 15:03:55 2024Mon Jul 15 15:03:56 2024Connected by ('101.207.4.242', 23490)Mon Jul 15 15:04:01 2024SELECT canchat,canjoin FROM users WHERE account = 0 Mon Jul 15 15:04:01 2024True@sql@TrueMon Jul 15 15:04:01 2024Mon Jul 15 15:04:01 2024Connected by ('101.207.4.242', 23507)Mon Jul 15 15:04:51 2024SELECT canchat,canjoin FROM users WHERE account = 0 Mon Jul 15 15:04:51 2024True@sql@TrueMon Jul 15 15:04:51 2024Mon Jul 15 15:04:51 2024Connected by ('101.207.4.242', 23570)Mon Jul 15 15:09:34 2024SELECT canchat,canjoin FROM users WHERE account = 0 Mon Jul 15 15:09:34 2024True@sql@TrueMon Jul 15 15:09:34 2024Mon Jul 15 15:09:34 2024Connected by ('101.207.4.242', 23607)Mon Jul 15 15:12:35 2024select * from users where account = 0 and password='12345678';Mon Jul 15 15:12:41 2024root@sql@0@sql@12345678@sql@True@sql@True@sql@TrueMon Jul 15 15:12:41 2024Mon Jul 15 15:12:42 2024Connected by ('101.207.4.242', 23608)Mon Jul 15 15:12:43 2024SELECT canchat,canjoin FROM users WHERE account = 0 Mon Jul 15 15:12:43 2024True@sql@TrueMon Jul 15 15:12:43 2024Mon Jul 15 15:12:43 2024Connected by ('101.207.4.242', 23613)Mon Jul 15 15:13:26 2024SELECT canchat,canjoin FROM users WHERE account = 0 Mon Jul 15 15:13:26 2024True@sql@TrueMon Jul 15 15:13:26 2024Mon Jul 15 15:13:26 2024Connected by ('101.207.4.242', 23619)Mon Jul 15 15:14:06 2024select * from users where account = 0 and password='12345678';Mon Jul 15 15:14:12 2024root@sql@0@sql@12345678@sql@True@sql@True@sql@TrueMon Jul 15 15:14:12 2024Mon Jul 15 15:14:13 2024Connected by ('101.207.4.242', 23620)Mon Jul 15 15:14:13 2024SELECT canchat,canjoin FROM users WHERE account = 0 Mon Jul 15 15:14:13 2024True@sql@TrueMon Jul 15 15:14:14 2024Mon Jul 15 15:14:14 2024Connected by ('101.207.4.242', 23624)Mon Jul 15 15:14:26 2024SELECT canchat,canjoin FROM users WHERE account = 0 Mon Jul 15 15:14:26 2024True@sql@TrueMon Jul 15 15:14:26 2024Mon Jul 15 15:14:26 2024Connected by ('101.207.4.242', 26533)Mon Jul 15 17:20:21 2024select * from users where account = 0 and password='12345678';Mon Jul 15 17:20:38 2024root@sql@0@sql@12345678@sql@True@sql@True@sql@TrueMon Jul 15 17:20:38 2024Mon Jul 15 17:20:39 2024Connected by ('101.207.4.242', 26534)Mon Jul 15 17:20:40 2024SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 17:20:40 2024True@sql@True@sql@TrueMon Jul 15 17:20:40 2024Mon Jul 15 17:20:40 2024Connected by ('101.207.4.242', 26592)Mon Jul 15 17:27:44 2024SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 17:27:44 2024True@sql@True@sql@TrueMon Jul 15 17:27:44 2024Mon Jul 15 17:27:44 2024Connected by ('45.79.181.94', 53552)Mon Jul 15 17:32:27 2024Connected by ('101.207.4.242', 28091)Mon Jul 15 18:20:07 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 18:20:13 2024y ('101.207.4.242'
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 18:20:13 2024
+Connected by ('101.207.4.242', 28094)Mon Jul 15 18:20:14 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = -842150451 Mon Jul 15 18:20:14 2024
+Mon Jul 15 18:20:14 2024
+Connected by ('101.207.4.242', 28104)Mon Jul 15 18:20:44 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 18:20:50 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 18:20:50 2024
+Connected by ('101.207.4.242', 28108)Mon Jul 15 18:20:51 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = -842150451 Mon Jul 15 18:20:51 2024
+Mon Jul 15 18:20:51 2024
+Connected by ('101.207.4.242', 28116)Mon Jul 15 18:21:59 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 18:22:04 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 18:22:04 2024
+update users online = true where id = 0Mon Jul 15 18:22:05 2024
+Connected by ('101.207.4.242', 28151)Mon Jul 15 18:23:37 2024
+Connected by ('101.207.4.242', 28172)Mon Jul 15 18:24:05 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 18:24:11 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 18:24:11 2024
+Connected by ('101.207.4.242', 28196)Mon Jul 15 18:24:34 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = -842150451 Mon Jul 15 18:24:34 2024
+Mon Jul 15 18:24:34 2024
+Connected by ('101.207.4.242', 28462)Mon Jul 15 18:41:28 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 18:41:34 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 18:41:34 2024
+update users online = true where id = 0Mon Jul 15 18:41:35 2024
+Connected by ('101.207.4.242', 28493)Mon Jul 15 18:45:26 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = -842150451 Mon Jul 15 18:45:26 2024
+Mon Jul 15 18:45:26 2024
+Connected by ('101.207.4.242', 28630)Mon Jul 15 18:49:37 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 18:54:51 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 18:54:51 2024
+update users online = true where id = 0Mon Jul 15 18:54:52 2024
+Connected by ('101.207.4.242', 29083)Mon Jul 15 18:58:05 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 18:58:18 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 18:58:18 2024
+update users online = true where id = 0Mon Jul 15 18:58:20 2024
+Connected by ('101.207.4.242', 29136)Mon Jul 15 18:58:51 2024
+Connected by ('101.207.4.242', 29161)Mon Jul 15 18:59:06 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 18:59:12 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 18:59:12 2024
+update users online = true where id = 0Mon Jul 15 18:59:50 2024
+Connected by ('101.207.4.242', 29244)Mon Jul 15 19:00:24 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 19:00:30 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 19:00:30 2024
+update users online = true where id = 0Mon Jul 15 19:00:32 2024
+Connected by ('101.207.4.242', 29273)Mon Jul 15 19:00:49 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 19:00:55 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 19:00:55 2024
+update users online = true where id = 0Mon Jul 15 19:01:03 2024
+Connected by ('101.207.4.242', 29610)Mon Jul 15 19:03:02 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 19:03:08 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 19:03:08 2024
+update users set online = true where id = 0Mon Jul 15 19:03:10 2024
+Connected by ('101.207.4.242', 29657)Mon Jul 15 19:03:37 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 19:03:43 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@FalseMon Jul 15 19:03:43 2024
+update users set online = true where account = 0Mon Jul 15 19:03:43 2024
+Connected by ('101.207.4.242', 29671)Mon Jul 15 19:03:57 2024
+Connected by ('101.207.4.242', 30968)Mon Jul 15 19:20:49 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 19:20:58 2024
+select erroMon Jul 15 19:20:58 2024
+update users set online = true where account = 0Mon Jul 15 19:20:59 2024
+update erroMon Jul 15 19:20:59 2024
+Mon Jul 15 19:20:59 2024
+Connected by ('101.207.4.242', 30983)Mon Jul 15 19:21:03 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 19:21:03 2024
+True@sql@True@sql@TrueMon Jul 15 19:21:03 2024
+Mon Jul 15 19:21:03 2024
+Connected by ('101.207.4.242', 32591)Mon Jul 15 19:39:08 2024
+select * from users where account = 0 and password='23456789';Mon Jul 15 19:39:14 2024
+select erroMon Jul 15 19:39:14 2024
+update users set online = true where account = 0Mon Jul 15 19:39:15 2024
+update erroMon Jul 15 19:39:15 2024
+Mon Jul 15 19:39:15 2024
+Connected by ('101.207.4.242', 32605)Mon Jul 15 19:39:16 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 19:39:16 2024
+True@sql@True@sql@TrueMon Jul 15 19:39:16 2024
+Mon Jul 15 19:39:16 2024
+Connected by ('101.207.4.242', 32658)Mon Jul 15 19:40:17 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 19:40:24 2024
+select erroMon Jul 15 19:40:24 2024
+update users set online = true where account = 0Mon Jul 15 19:40:25 2024
+update erroMon Jul 15 19:40:25 2024
+Mon Jul 15 19:40:25 2024
+Connected by ('101.207.4.242', 32672)Mon Jul 15 19:40:35 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 19:40:35 2024
+True@sql@True@sql@TrueMon Jul 15 19:40:35 2024
+Mon Jul 15 19:40:35 2024
+Connected by ('101.207.4.242', 32844)Mon Jul 15 19:43:35 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 19:43:41 2024
+select erroMon Jul 15 19:43:41 2024
+update users set online = true where account = 0Mon Jul 15 19:43:42 2024
+update erroMon Jul 15 19:43:42 2024
+Mon Jul 15 19:43:42 2024
+Connected by ('101.207.4.242', 32847)Mon Jul 15 19:43:48 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 19:43:48 2024
+True@sql@True@sql@TrueMon Jul 15 19:43:48 2024
+Mon Jul 15 19:43:48 2024
+Connected by ('101.207.4.242', 32905)Mon Jul 15 19:45:39 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 19:45:51 2024
+select erroMon Jul 15 19:45:51 2024
+update users set online = true where account = 0Mon Jul 15 19:45:52 2024
+update erroMon Jul 15 19:45:52 2024
+Mon Jul 15 19:45:52 2024
+Connected by ('101.207.4.242', 32909)Mon Jul 15 19:45:53 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 19:45:53 2024
+True@sql@True@sql@TrueMon Jul 15 19:45:53 2024
+Mon Jul 15 19:45:53 2024
+Connected by ('101.207.4.242', 33604)Mon Jul 15 19:51:42 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 19:51:53 2024
+select erroMon Jul 15 19:51:53 2024
+update users set online = true where account = 0Mon Jul 15 19:51:54 2024
+update erroMon Jul 15 19:51:54 2024
+Mon Jul 15 19:51:54 2024
+Connected by ('101.207.4.242', 33685)Mon Jul 15 19:53:11 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 19:53:18 2024
+select erroMon Jul 15 19:53:18 2024
+update users set online = true where account = 0Mon Jul 15 19:53:18 2024
+update erroMon Jul 15 19:53:18 2024
+Mon Jul 15 19:53:18 2024
+Connected by ('101.207.4.242', 34288)Mon Jul 15 20:07:35 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 20:07:41 2024
+select erroMon Jul 15 20:07:41 2024
+update users set online = true where account = 0Mon Jul 15 20:07:42 2024
+update erroMon Jul 15 20:07:42 2024
+Mon Jul 15 20:07:42 2024
+Connected by ('101.207.4.242', 34320)Mon Jul 15 20:08:39 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 20:08:46 2024
+select erroMon Jul 15 20:08:46 2024
+update users set online = true where account = 0Mon Jul 15 20:08:47 2024
+update erroMon Jul 15 20:08:47 2024
+Mon Jul 15 20:08:47 2024
+Connected by ('101.207.4.242', 34323)Mon Jul 15 20:08:48 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 20:08:48 2024
+True@sql@True@sql@TrueMon Jul 15 20:08:48 2024
+Mon Jul 15 20:08:48 2024
+Connected by ('101.207.4.242', 24281)Mon Jul 15 20:49:53 2024
+Connected by ('101.207.4.242', 24339)Mon Jul 15 20:51:50 2024
+Connected by ('101.207.4.242', 24452)Mon Jul 15 20:55:33 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 20:55:40 2024
+select erroMon Jul 15 20:55:40 2024
+update users set online = true where account = 0Mon Jul 15 20:55:41 2024
+update erroMon Jul 15 20:55:41 2024
+Mon Jul 15 20:55:41 2024
+Connected by ('101.207.4.242', 24454)Mon Jul 15 20:55:42 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 20:55:42 2024
+True@sql@True@sql@TrueMon Jul 15 20:55:42 2024
+Mon Jul 15 20:55:42 2024
+Connected by ('101.207.4.242', 24487)Mon Jul 15 20:56:44 2024
+select * from users where account = 0 and password='345678';Mon Jul 15 20:56:51 2024
+select erroMon Jul 15 20:56:51 2024
+update users set online = true where account = 0Mon Jul 15 20:56:51 2024
+update erroMon Jul 15 20:56:51 2024
+Mon Jul 15 20:56:51 2024
+Connected by ('101.207.4.242', 24488)Mon Jul 15 20:56:52 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 20:56:52 2024
+True@sql@True@sql@TrueMon Jul 15 20:56:52 2024
+Mon Jul 15 20:56:52 2024
+Connected by ('101.207.4.242', 24609)Mon Jul 15 20:58:10 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 20:58:16 2024
+select erroMon Jul 15 20:58:16 2024
+update users set online = true where account = 0Mon Jul 15 20:58:17 2024
+update erroMon Jul 15 20:58:17 2024
+Mon Jul 15 20:58:17 2024
+Connected by ('101.207.4.242', 24611)Mon Jul 15 20:58:19 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 20:58:19 2024
+True@sql@True@sql@TrueMon Jul 15 20:58:19 2024
+Mon Jul 15 20:58:19 2024
+Connected by ('101.207.4.242', 24794)Mon Jul 15 21:02:22 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 21:02:35 2024
+select erroMon Jul 15 21:02:35 2024
+update users set online = true where account = 0Mon Jul 15 21:02:36 2024
+update erroMon Jul 15 21:02:36 2024
+Mon Jul 15 21:02:36 2024
+Connected by ('101.207.4.242', 24829)Mon Jul 15 21:02:37 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 21:02:37 2024
+True@sql@True@sql@TrueMon Jul 15 21:02:37 2024
+Mon Jul 15 21:02:37 2024
+Connected by ('101.207.4.242', 24845)Mon Jul 15 21:03:06 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 21:03:16 2024
+select erroMon Jul 15 21:03:16 2024
+update users set online = true where account = 0Mon Jul 15 21:03:17 2024
+update erroMon Jul 15 21:03:17 2024
+Mon Jul 15 21:03:17 2024
+Connected by ('101.207.4.242', 24850)Mon Jul 15 21:03:19 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 21:03:19 2024
+True@sql@True@sql@TrueMon Jul 15 21:03:19 2024
+Mon Jul 15 21:03:19 2024
+Connected by ('101.207.4.242', 26119)Mon Jul 15 21:17:53 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 21:18:00 2024
+select erroMon Jul 15 21:18:00 2024
+update users set online = true where account = 0Mon Jul 15 21:18:01 2024
+update erroMon Jul 15 21:18:01 2024
+Mon Jul 15 21:18:01 2024
+Connected by ('101.207.4.242', 26137)Mon Jul 15 21:18:02 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 21:18:02 2024
+True@sql@True@sql@TrueMon Jul 15 21:18:02 2024
+Mon Jul 15 21:18:03 2024
+Connected by ('101.207.4.242', 26557)Mon Jul 15 21:27:24 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 21:27:34 2024
+select erroMon Jul 15 21:27:34 2024
+update users set online = true where account = 0Mon Jul 15 21:27:35 2024
+update erroMon Jul 15 21:27:35 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 21:27:35 2024
+Connected by ('101.207.4.242', 26574)Mon Jul 15 21:27:37 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 21:27:37 2024
+True@sql@True@sql@TrueMon Jul 15 21:27:37 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 21:27:37 2024
+Connected by ('101.207.4.242', 26584)Mon Jul 15 21:27:55 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 21:27:55 2024
+True@sql@True@sql@TrueMon Jul 15 21:27:55 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 21:27:56 2024
+Connected by ('101.207.4.242', 65193)Mon Jul 15 23:29:18 2024
+select * from users where account = 0 and password='12345678';Mon Jul 15 23:29:24 2024
+select erroMon Jul 15 23:29:24 2024
+update users set online = true where account = 0Mon Jul 15 23:29:24 2024
+update erroMon Jul 15 23:29:24 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 23:29:24 2024
+Connected by ('101.207.4.242', 65197)Mon Jul 15 23:29:26 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 23:29:26 2024
+True@sql@True@sql@TrueMon Jul 15 23:29:26 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 23:29:26 2024
+Connected by ('101.207.4.242', 65201)Mon Jul 15 23:29:41 2024
+select * from users where account = 1234 and password='12345678';Mon Jul 15 23:30:00 2024
+select erroMon Jul 15 23:30:00 2024
+update users set online = true where account = 1234Mon Jul 15 23:30:00 2024
+update erroMon Jul 15 23:30:00 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 23:30:00 2024
+Connected by ('101.207.4.242', 65214)Mon Jul 15 23:30:43 2024
+select * from users where account = 123 and password='66666666';Mon Jul 15 23:30:52 2024
+select erroMon Jul 15 23:30:52 2024
+update users set online = true where account = 123Mon Jul 15 23:30:53 2024
+update erroMon Jul 15 23:30:53 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 23:30:53 2024
+Connected by ('101.207.4.242', 65265)Mon Jul 15 23:33:52 2024
+select * from users where account = 123 and password='3333';Mon Jul 15 23:33:59 2024
+select erroMon Jul 15 23:33:59 2024
+update users set online = true where account = 123Mon Jul 15 23:34:00 2024
+update erroMon Jul 15 23:34:00 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 23:34:00 2024
+Connected by ('101.207.4.242', 65273)Mon Jul 15 23:35:18 2024
+select * from users where account = 123 and password='111';Mon Jul 15 23:35:28 2024
+select erroMon Jul 15 23:35:28 2024
+select * from users where account = 1234 and password='12345678';Mon Jul 15 23:35:53 2024
+select erroMon Jul 15 23:35:53 2024
+Connected by ('101.207.4.242', 65285)Mon Jul 15 23:37:21 2024
+select * from users where account = 1234 and password='12345678';Mon Jul 15 23:37:36 2024
+select erroMon Jul 15 23:37:36 2024
+Connected by ('101.207.4.242', 65315)Mon Jul 15 23:38:47 2024
+Connected by ('101.207.4.242', 65399)Mon Jul 15 23:41:03 2024
+Connected by ('101.207.4.242', 65438)Mon Jul 15 23:43:45 2024
+SELECT * FROM users where account = 1234Mon Jul 15 23:43:51 2024
+Mon Jul 15 23:43:51 2024
+Connected by ('101.207.4.242', 65444)Mon Jul 15 23:45:21 2024
+SELECT * FROM users where account = 1234Mon Jul 15 23:45:29 2024
+Mon Jul 15 23:45:29 2024
+Connected by ('101.207.4.242', 65463)Mon Jul 15 23:46:16 2024
+SELECT * FROM users where account = 1234Mon Jul 15 23:46:25 2024
+Mon Jul 15 23:46:25 2024
+Connected by ('111.7.96.151', 50506)Mon Jul 15 23:46:35 2024
+Connected by ('111.7.96.151', 59950)Mon Jul 15 23:46:48 2024
+GET / HTTP/1.1
+Host: 121.36.19.243:9998
+User-Agent: curl/7.64.1
+Accept: */*
+
+Mon Jul 15 23:46:48 2024
+Connected by ('111.7.96.151', 19676)Mon Jul 15 23:47:01 2024
+Connected by ('101.207.4.242', 1086)Mon Jul 15 23:52:42 2024
+SELECT * FROM users where account = 1234Mon Jul 15 23:52:49 2024
+Mon Jul 15 23:52:49 2024
+Connected by ('101.207.4.242', 1093)Mon Jul 15 23:53:34 2024
+SELECT * from users where account = 0 and password='12345678';Mon Jul 15 23:53:42 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueMon Jul 15 23:53:42 2024
+update users set online = true where account = 0Mon Jul 15 23:53:43 2024
+update erroMon Jul 15 23:53:43 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 23:53:43 2024
+Connected by ('101.207.4.242', 1094)Mon Jul 15 23:53:57 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Mon Jul 15 23:53:57 2024
+True@sql@True@sql@TrueMon Jul 15 23:53:57 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 23:53:57 2024
+Connected by ('101.207.4.242', 1114)Mon Jul 15 23:57:26 2024
+SELECT * FROM users where account = 1234Mon Jul 15 23:57:35 2024
+Mon Jul 15 23:57:35 2024
+Connected by ('101.207.4.242', 1118)Mon Jul 15 23:58:00 2024
+SELECT * from users where account = 0 and password='12345678';Mon Jul 15 23:58:33 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueMon Jul 15 23:58:33 2024
+update users set online = true where account = 0Mon Jul 15 23:58:34 2024
+update erroMon Jul 15 23:58:34 2024
+<built-in function id> of Client is disconnected...Mon Jul 15 23:58:34 2024
+Connected by ('101.207.4.242', 1154)Tue Jul 16 00:05:12 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 00:06:20 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 00:06:20 2024
+update users set online = true where account = 0Tue Jul 16 00:06:20 2024
+update erroTue Jul 16 00:06:20 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 00:06:20 2024
+Connected by ('101.207.4.242', 1164)Tue Jul 16 00:06:59 2024
+SELECT * from archi where id = 1001Tue Jul 16 00:06:59 2024
+1001@sql@:/new/prefix1/resource/archi/library.jpg@sql@图书馆@sql@:/new/prefix1/resource/archi/library.jpg@sql@https://lib.scu.edu.cn/@sql@file:///D:/MyWork/Project/Qt/SCUnegvator/resource/infoHtml/library/index.html@sql@21527457Tue Jul 16 00:06:59 2024
+Connected by ('101.207.4.242', 1218)Tue Jul 16 00:11:13 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 00:11:26 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 00:11:26 2024
+update users set online = true where account = 0Tue Jul 16 00:11:26 2024
+update erroTue Jul 16 00:11:26 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 00:11:27 2024
+Connected by ('101.207.4.242', 1225)Tue Jul 16 00:12:26 2024
+SELECT * from archi where id = 1001Tue Jul 16 00:12:26 2024
+1001@sql@:/new/prefix1/resource/archi/library.jpg@sql@图书馆@sql@:/new/prefix1/resource/archi/library.jpg@sql@https://lib.scu.edu.cn/@sql@file:///D:/MyWork/Project/Qt/SCUnegvator/resource/infoHtml/library/index.html@sql@21527457Tue Jul 16 00:12:26 2024
+Connected by ('101.207.4.242', 1226)Tue Jul 16 00:12:29 2024
+SELECT * from archi where id = 1002Tue Jul 16 00:12:29 2024
+Tue Jul 16 00:12:29 2024
+Connected by ('101.207.4.242', 1231)Tue Jul 16 00:13:13 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 00:13:19 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 00:13:19 2024
+update users set online = true where account = 0Tue Jul 16 00:13:19 2024
+update erroTue Jul 16 00:13:19 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 00:13:19 2024
+Connected by ('101.207.4.242', 1317)Tue Jul 16 00:18:27 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Tue Jul 16 00:18:27 2024
+True@sql@True@sql@TrueTue Jul 16 00:18:27 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 00:18:27 2024
+Connected by ('101.207.4.242', 1335)Tue Jul 16 00:21:03 2024
+SELECT * from users where account = 1234555124 and password='2154124';Tue Jul 16 00:21:14 2024
+Tue Jul 16 00:21:14 2024
+Connected by ('101.207.4.242', 2169)Tue Jul 16 00:50:48 2024
+SELECT * FROM users where account = 1234Tue Jul 16 00:50:55 2024
+Tue Jul 16 00:50:55 2024
+insert into users(account,password) values('1234','12345678');Tue Jul 16 00:51:25 2024
+insert erroTue Jul 16 00:51:25 2024
+SELECT * FROM users where account = 1234Tue Jul 16 00:54:09 2024
+None@sql@1234@sql@12345678@sql@None@sql@None@sql@False@sql@NoneTue Jul 16 00:54:09 2024
+SELECT * FROM users where account = 1234Tue Jul 16 00:54:11 2024
+None@sql@1234@sql@12345678@sql@None@sql@None@sql@False@sql@NoneTue Jul 16 00:54:12 2024
+SELECT * FROM users where account = 12345Tue Jul 16 00:54:20 2024
+Tue Jul 16 00:54:20 2024
+insert into users(account,password) values('12345','12345678');Tue Jul 16 00:54:50 2024
+insert erroTue Jul 16 00:54:50 2024
+Connected by ('101.207.4.242', 2989)Tue Jul 16 01:04:43 2024
+SELECT * FROM users where account = 12345678Tue Jul 16 01:04:56 2024
+Tue Jul 16 01:04:56 2024
+insert into users(account,password) values(12345678,'12345678');Tue Jul 16 01:05:26 2024
+insert erroTue Jul 16 01:05:26 2024
+Connected by ('101.207.4.242', 3090)Tue Jul 16 01:10:06 2024
+SELECT * FROM users where account = 2041584846Tue Jul 16 01:10:30 2024
+Connected by ('185.167.97.229', 42374)Tue Jul 16 01:14:06 2024
+Connected by ('101.207.4.242', 3135)Tue Jul 16 01:16:14 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 01:16:21 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 01:16:21 2024
+update users set online = true where account = 0Tue Jul 16 01:16:21 2024
+update successTue Jul 16 01:16:21 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 01:16:21 2024
+Connected by ('101.207.4.242', 3139)Tue Jul 16 01:16:37 2024
+SELECT * FROM users where account = 2041Tue Jul 16 01:16:44 2024
+Tue Jul 16 01:16:44 2024
+insert into users(account,password) values(2041,'12345678');Tue Jul 16 01:17:14 2024
+insert successTue Jul 16 01:17:14 2024
+SELECT * from users where account = 2041 and password='12345678';Tue Jul 16 01:17:29 2024
+None@sql@2041@sql@12345678@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 01:17:29 2024
+update users set online = true where account = 2041Tue Jul 16 01:17:29 2024
+update successTue Jul 16 01:17:29 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 01:17:29 2024
+Connected by ('101.207.4.242', 3143)Tue Jul 16 01:17:34 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 2041 Tue Jul 16 01:17:34 2024
+True@sql@True@sql@FalseTue Jul 16 01:17:34 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 01:17:34 2024
+Connected by ('101.207.4.242', 3161)Tue Jul 16 01:17:42 2024
+SELECT * from users where account = 1314 and password='1234';Tue Jul 16 01:17:51 2024
+Tue Jul 16 01:17:51 2024
+SELECT * FROM users where account = 1314Tue Jul 16 01:19:04 2024
+Tue Jul 16 01:19:04 2024
+insert into users(account,password) values(1314,'12345678');Tue Jul 16 01:19:34 2024
+insert successTue Jul 16 01:19:34 2024
+Connected by ('101.207.4.242', 3190)Tue Jul 16 01:21:48 2024
+SELECT * from users where account = 520 and password='12345678';Tue Jul 16 01:22:01 2024
+Tue Jul 16 01:22:01 2024
+Connected by ('101.207.4.242', 3202)Tue Jul 16 01:23:15 2024
+SELECT * from users where account = 520 and password='12345678';Tue Jul 16 01:23:21 2024
+Tue Jul 16 01:23:21 2024
+SELECT * FROM users where account = 520Tue Jul 16 01:23:28 2024
+Tue Jul 16 01:23:28 2024
+insert into users(account,password) values(520,'12345678');Tue Jul 16 01:23:30 2024
+insert successTue Jul 16 01:23:30 2024
+SELECT * from users where account = 520 and password='12345678';Tue Jul 16 01:23:31 2024
+None@sql@520@sql@12345678@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 01:23:31 2024
+update users set online = true where account = 520Tue Jul 16 01:23:31 2024
+update successTue Jul 16 01:23:31 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 01:23:31 2024
+Connected by ('101.207.4.242', 3210)Tue Jul 16 01:24:04 2024
+SELECT * from users where account = 9999 and password='99999999';Tue Jul 16 01:24:09 2024
+Tue Jul 16 01:24:09 2024
+SELECT * from users where account = 9999 and password='99999999';Tue Jul 16 01:24:14 2024
+Tue Jul 16 01:24:14 2024
+SELECT * FROM users where account = 9999Tue Jul 16 01:24:16 2024
+Tue Jul 16 01:24:16 2024
+insert into users(account,password) values(9999,'99999999');Tue Jul 16 01:24:17 2024
+insert successTue Jul 16 01:24:17 2024
+SELECT * from users where account = 9999 and password='99999999';Tue Jul 16 01:24:20 2024
+None@sql@9999@sql@99999999@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 01:24:20 2024
+update users set online = true where account = 9999Tue Jul 16 01:24:20 2024
+update successTue Jul 16 01:24:20 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 01:24:20 2024
+Connected by ('101.207.4.242', 3212)Tue Jul 16 01:24:22 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 9999 Tue Jul 16 01:24:22 2024
+True@sql@True@sql@FalseTue Jul 16 01:24:22 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 01:24:22 2024
+Connected by ('211.83.127.3', 56247)Tue Jul 16 08:43:47 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:43:55 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:43:55 2024
+Connected by ('101.207.4.242', 51092)Tue Jul 16 08:43:56 2024
+SELECT * from users where account = 0 and password='0';Tue Jul 16 08:44:01 2024
+Tue Jul 16 08:44:01 2024
+SELECT * from users where account = 0 and password='0';Tue Jul 16 08:44:02 2024
+Tue Jul 16 08:44:02 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:03 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:03 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:04 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:04 2024
+Connected by ('211.83.126.231', 53254)Tue Jul 16 08:44:13 2024
+SELECT * from users where account = 0 and password='ihh';Tue Jul 16 08:44:14 2024
+Tue Jul 16 08:44:14 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:23 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:23 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:23 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:23 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:23 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:23 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:24 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:24 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:24 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:24 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:24 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:24 2024
+Connected by ('211.83.127.116', 5975)Tue Jul 16 08:44:26 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:26 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:26 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:27 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:27 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:27 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:27 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:27 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:27 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:27 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:27 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:28 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:28 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:29 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:29 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:29 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:29 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:29 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:29 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:29 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:29 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:29 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:29 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:29 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:29 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:30 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:30 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:31 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:31 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:32 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:32 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:33 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:33 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:33 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:33 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 08:44:33 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:33 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:34 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:34 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:34 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:34 2024
+update users set online = true where account = 0Tue Jul 16 08:44:34 2024
+update successTue Jul 16 08:44:34 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:44:34 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:35 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:35 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:35 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:35 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:35 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:35 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:35 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:35 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:35 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:35 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:37 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:37 2024
+Connected by ('101.207.4.242', 51101)Tue Jul 16 08:44:37 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Tue Jul 16 08:44:37 2024
+True@sql@True@sql@TrueTue Jul 16 08:44:37 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:44:37 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:38 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:38 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:38 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:38 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:38 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:38 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:38 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:38 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:43 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:43 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:43 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:43 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:43 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:43 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:43 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:43 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:47 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:47 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:48 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:48 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:50 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:50 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:50 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:50 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:44:50 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:44:50 2024
+SELECT * FROM users where account = 12345Tue Jul 16 08:44:54 2024
+None@sql@12345@sql@12345678@sql@None@sql@None@sql@False@sql@NoneTue Jul 16 08:44:54 2024
+SELECT * FROM users where account = 123456Tue Jul 16 08:44:58 2024
+Tue Jul 16 08:44:58 2024
+insert into users(account,password) values(123456,'123456');Tue Jul 16 08:44:59 2024
+insert successTue Jul 16 08:44:59 2024
+SELECT * from users where account = 123456 and password='123456';Tue Jul 16 08:45:01 2024
+None@sql@123456@sql@123456@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 08:45:01 2024
+update users set online = true where account = 123456Tue Jul 16 08:45:01 2024
+update successTue Jul 16 08:45:01 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:45:01 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 08:45:04 2024
+Tue Jul 16 08:45:04 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 08:45:05 2024
+Tue Jul 16 08:45:05 2024
+SELECT * FROM users where account = 1989Tue Jul 16 08:45:07 2024
+Tue Jul 16 08:45:07 2024
+Connected by ('211.83.127.3', 56335)Tue Jul 16 08:45:07 2024
+SELECT * from archi where id = 1007Tue Jul 16 08:45:07 2024
+Tue Jul 16 08:45:07 2024
+insert into users(account,password) values(1989,'taylor13');Tue Jul 16 08:45:07 2024
+insert successTue Jul 16 08:45:07 2024
+SELECT * FROM users where account = 1989Tue Jul 16 08:45:08 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 08:45:08 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:10 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:10 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:10 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:10 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:10 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:10 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:10 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:10 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:10 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:11 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:11 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:11 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:11 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:11 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:11 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:11 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:11 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:11 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:12 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:12 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:12 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:12 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:13 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:13 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:13 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:13 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 08:45:13 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 08:45:13 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:13 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:13 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:13 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:13 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:13 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:13 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:14 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:14 2024
+update users set online = true where account = 1989Tue Jul 16 08:45:14 2024
+update successTue Jul 16 08:45:14 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:45:14 2024
+SELECT * FROM users where account = 0Tue Jul 16 08:45:14 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:14 2024
+Connected by ('211.83.127.116', 5980)Tue Jul 16 08:45:16 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 1989 Tue Jul 16 08:45:16 2024
+True@sql@True@sql@FalseTue Jul 16 08:45:16 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:45:17 2024
+Connected by ('211.83.127.116', 5982)Tue Jul 16 08:45:17 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 1989 Tue Jul 16 08:45:17 2024
+True@sql@True@sql@FalseTue Jul 16 08:45:17 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:45:17 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 08:45:28 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:45:28 2024
+update users set online = true where account = 0Tue Jul 16 08:45:28 2024
+update successTue Jul 16 08:45:28 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:45:28 2024
+Connected by ('211.83.127.3', 56376)Tue Jul 16 08:45:42 2024
+SELECT * from users where account = 123456 and password='123456';Tue Jul 16 08:45:51 2024
+None@sql@123456@sql@123456@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 08:45:51 2024
+update users set online = true where account = 123456Tue Jul 16 08:45:51 2024
+update successTue Jul 16 08:45:51 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:45:51 2024
+Connected by ('211.83.127.116', 5990)Tue Jul 16 08:46:00 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 1989 Tue Jul 16 08:46:00 2024
+True@sql@True@sql@FalseTue Jul 16 08:46:00 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:46:00 2024
+Connected by ('211.83.127.116', 5992)Tue Jul 16 08:46:02 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 1989 Tue Jul 16 08:46:02 2024
+True@sql@True@sql@FalseTue Jul 16 08:46:02 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:46:02 2024
+Connected by ('211.83.127.3', 56449)Tue Jul 16 08:46:54 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:46:54 2024
+True@sql@True@sql@FalseTue Jul 16 08:46:54 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:46:54 2024
+Connected by ('211.83.127.3', 56459)Tue Jul 16 08:47:00 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:47:00 2024
+True@sql@True@sql@FalseTue Jul 16 08:47:00 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:47:00 2024
+Connected by ('211.83.126.231', 53358)Tue Jul 16 08:47:10 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 08:47:18 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 08:47:18 2024
+update users set online = true where account = 0Tue Jul 16 08:47:18 2024
+update successTue Jul 16 08:47:18 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:47:18 2024
+Connected by ('211.83.126.231', 53375)Tue Jul 16 08:47:38 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Tue Jul 16 08:47:38 2024
+True@sql@True@sql@TrueTue Jul 16 08:47:38 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:47:38 2024
+Connected by ('211.83.127.3', 56574)Tue Jul 16 08:48:55 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:48:56 2024
+True@sql@True@sql@FalseTue Jul 16 08:48:56 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:48:56 2024
+Connected by ('211.83.127.116', 6057)Tue Jul 16 08:48:58 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 08:49:11 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 08:49:11 2024
+update users set online = true where account = 1989Tue Jul 16 08:49:11 2024
+update successTue Jul 16 08:49:11 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:49:11 2024
+Connected by ('211.83.127.116', 6062)Tue Jul 16 08:49:15 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 1989 Tue Jul 16 08:49:15 2024
+True@sql@True@sql@FalseTue Jul 16 08:49:15 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:49:15 2024
+Connected by ('211.83.127.116', 6064)Tue Jul 16 08:49:20 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 1989 Tue Jul 16 08:49:20 2024
+True@sql@True@sql@FalseTue Jul 16 08:49:20 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:49:20 2024
+Connected by ('211.83.127.3', 56611)Tue Jul 16 08:49:21 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:49:21 2024
+True@sql@True@sql@FalseTue Jul 16 08:49:21 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:49:21 2024
+Connected by ('211.83.127.3', 56645)Tue Jul 16 08:49:53 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:49:53 2024
+True@sql@True@sql@FalseTue Jul 16 08:49:53 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:49:53 2024
+Connected by ('211.83.127.3', 56696)Tue Jul 16 08:50:41 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:50:41 2024
+True@sql@True@sql@FalseTue Jul 16 08:50:41 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:50:41 2024
+Connected by ('211.83.127.3', 56699)Tue Jul 16 08:50:42 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:50:42 2024
+True@sql@True@sql@FalseTue Jul 16 08:50:42 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:50:42 2024
+Connected by ('211.83.127.3', 56701)Tue Jul 16 08:50:42 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:50:42 2024
+True@sql@True@sql@FalseTue Jul 16 08:50:42 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:50:42 2024
+Connected by ('211.83.127.3', 56703)Tue Jul 16 08:50:42 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:50:42 2024
+True@sql@True@sql@FalseTue Jul 16 08:50:42 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:50:42 2024
+Connected by ('211.83.127.3', 56705)Tue Jul 16 08:50:42 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:50:42 2024
+True@sql@True@sql@FalseTue Jul 16 08:50:42 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:50:42 2024
+Connected by ('211.83.127.3', 56707)Tue Jul 16 08:50:43 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:50:43 2024
+True@sql@True@sql@FalseTue Jul 16 08:50:43 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:50:43 2024
+Connected by ('211.83.127.3', 56721)Tue Jul 16 08:50:52 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:50:52 2024
+True@sql@True@sql@FalseTue Jul 16 08:50:52 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:50:52 2024
+Connected by ('211.83.127.3', 56736)Tue Jul 16 08:51:10 2024
+SELECT * from archi where id = 1000Tue Jul 16 08:51:10 2024
+Tue Jul 16 08:51:10 2024
+Connected by ('211.83.127.3', 56768)Tue Jul 16 08:51:42 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:51:42 2024
+True@sql@True@sql@FalseTue Jul 16 08:51:42 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:51:42 2024
+Connected by ('211.83.127.3', 56771)Tue Jul 16 08:51:43 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 123456 Tue Jul 16 08:51:43 2024
+True@sql@True@sql@FalseTue Jul 16 08:51:43 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 08:51:43 2024
+Connected by ('101.207.4.242', 51158)Tue Jul 16 08:52:02 2024
+SELECT * from archi where id = 1001Tue Jul 16 08:52:02 2024
+1001@sql@:/new/prefix1/resource/archi/library.jpg@sql@图书馆@sql@:/new/prefix1/resource/archi/library.jpg@sql@https://lib.scu.edu.cn/@sql@file:///D:/MyWork/Project/Qt/SCUnegvator/resource/infoHtml/library/index.html@sql@21527457Tue Jul 16 08:52:02 2024
+Connected by ('211.83.127.3', 56803)Tue Jul 16 08:52:09 2024
+SELECT * from archi where id = 1001Tue Jul 16 08:52:09 2024
+1001@sql@:/new/prefix1/resource/archi/library.jpg@sql@图书馆@sql@:/new/prefix1/resource/archi/library.jpg@sql@https://lib.scu.edu.cn/@sql@file:///D:/MyWork/Project/Qt/SCUnegvator/resource/infoHtml/library/index.html@sql@21527457Tue Jul 16 08:52:09 2024
+Connected by ('211.83.127.3', 56840)Tue Jul 16 08:52:42 2024
+SELECT * from archi where id = 1002Tue Jul 16 08:52:42 2024
+Tue Jul 16 08:52:42 2024
+Connected by ('211.83.127.116', 6521)Tue Jul 16 09:02:01 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 09:02:10 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 09:02:10 2024
+update users set online = true where account = 1989Tue Jul 16 09:02:10 2024
+update successTue Jul 16 09:02:10 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:02:10 2024
+Connected by ('211.83.127.116', 6535)Tue Jul 16 09:03:33 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 09:03:42 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 09:03:42 2024
+update users set online = true where account = 1989Tue Jul 16 09:03:43 2024
+update successTue Jul 16 09:03:43 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:03:43 2024
+Connected by ('211.83.127.116', 6537)Tue Jul 16 09:03:48 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 1989 Tue Jul 16 09:03:48 2024
+True@sql@True@sql@FalseTue Jul 16 09:03:48 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:03:48 2024
+Connected by ('211.83.127.116', 6563)Tue Jul 16 09:05:35 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 09:05:41 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 09:05:41 2024
+update users set online = true where account = 1989Tue Jul 16 09:05:42 2024
+update successTue Jul 16 09:05:42 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:05:42 2024
+Connected by ('211.83.127.116', 7349)Tue Jul 16 09:18:54 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 09:19:03 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 09:19:03 2024
+update users set online = true where account = 1989Tue Jul 16 09:19:03 2024
+update successTue Jul 16 09:19:03 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:19:03 2024
+Connected by ('211.83.127.116', 7371)Tue Jul 16 09:19:54 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 09:20:04 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 09:20:04 2024
+update users set online = true where account = 1989Tue Jul 16 09:20:04 2024
+update successTue Jul 16 09:20:04 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:20:04 2024
+Connected by ('101.207.4.242', 52051)Tue Jul 16 09:24:20 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 09:24:25 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 09:24:25 2024
+update users set online = true where account = 0Tue Jul 16 09:24:26 2024
+update successTue Jul 16 09:24:26 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:24:26 2024
+Connected by ('101.207.4.242', 52194)Tue Jul 16 09:30:19 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 09:30:26 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 09:30:26 2024
+update users set online = true where account = 0Tue Jul 16 09:30:27 2024
+update successTue Jul 16 09:30:27 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:30:27 2024
+Connected by ('101.207.4.242', 52249)Tue Jul 16 09:31:56 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 09:32:07 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 09:32:07 2024
+update users set online = true where account = 0Tue Jul 16 09:32:07 2024
+update successTue Jul 16 09:32:07 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:32:07 2024
+Connected by ('101.207.4.242', 52252)Tue Jul 16 09:32:24 2024
+SELECT * from archi where id = 1085Tue Jul 16 09:32:24 2024
+Tue Jul 16 09:32:24 2024
+Connected by ('101.207.4.242', 52277)Tue Jul 16 09:35:06 2024
+SELECT * from archi where id = 1081Tue Jul 16 09:35:06 2024
+Tue Jul 16 09:35:06 2024
+Connected by ('101.207.4.242', 52283)Tue Jul 16 09:35:55 2024
+SELECT * from archi where id = 1064Tue Jul 16 09:35:55 2024
+Tue Jul 16 09:35:55 2024
+Connected by ('101.207.4.242', 52304)Tue Jul 16 09:39:59 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 09:40:13 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 09:40:13 2024
+update users set online = true where account = 0Tue Jul 16 09:40:14 2024
+update successTue Jul 16 09:40:14 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:40:14 2024
+Connected by ('101.207.4.242', 52315)Tue Jul 16 09:41:16 2024
+SELECT * from archi where id = 1064Tue Jul 16 09:41:16 2024
+Tue Jul 16 09:41:16 2024
+Connected by ('101.207.4.242', 52318)Tue Jul 16 09:41:23 2024
+SELECT * from archi where id = 1071Tue Jul 16 09:41:23 2024
+Tue Jul 16 09:41:23 2024
+Connected by ('101.207.4.242', 52328)Tue Jul 16 09:42:53 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 09:42:59 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 09:42:59 2024
+update users set online = true where account = 0Tue Jul 16 09:42:59 2024
+update successTue Jul 16 09:42:59 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:42:59 2024
+Connected by ('101.207.4.242', 52396)Tue Jul 16 09:49:20 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 09:49:27 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 09:49:27 2024
+update users set online = true where account = 0Tue Jul 16 09:49:28 2024
+update successTue Jul 16 09:49:28 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 09:49:28 2024
+Connected by ('211.83.127.116', 9472)Tue Jul 16 10:21:15 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 10:21:23 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 10:21:23 2024
+update users set online = true where account = 1989Tue Jul 16 10:21:24 2024
+update successTue Jul 16 10:21:24 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 10:21:24 2024
+Connected by ('211.83.127.116', 9489)Tue Jul 16 10:22:19 2024
+SELECT * from archi where id = 1003Tue Jul 16 10:22:19 2024
+Tue Jul 16 10:22:19 2024
+Connected by ('211.83.127.116', 9495)Tue Jul 16 10:22:37 2024
+SELECT * from archi where id = 1002Tue Jul 16 10:22:37 2024
+Tue Jul 16 10:22:37 2024
+Connected by ('211.83.127.116', 9497)Tue Jul 16 10:22:47 2024
+SELECT * from archi where id = 1003Tue Jul 16 10:22:47 2024
+Tue Jul 16 10:22:47 2024
+Connected by ('211.83.127.116', 9498)Tue Jul 16 10:22:54 2024
+SELECT * from archi where id = 1000Tue Jul 16 10:22:54 2024
+Tue Jul 16 10:22:54 2024
+Connected by ('211.83.126.45', 40074)Tue Jul 16 14:48:05 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 14:48:18 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 14:48:18 2024
+update users set online = true where account = 1989Tue Jul 16 14:48:19 2024
+update successTue Jul 16 14:48:19 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 14:48:19 2024
+Connected by ('101.207.4.242', 28090)Tue Jul 16 16:05:52 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 16:05:58 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 16:05:58 2024
+update users set online = true where account = 0Tue Jul 16 16:05:59 2024
+update successTue Jul 16 16:05:59 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 16:05:59 2024
+Connected by ('101.207.4.242', 28160)Tue Jul 16 16:07:56 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 16:08:07 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 16:08:07 2024
+update users set online = true where account = 0Tue Jul 16 16:08:11 2024
+update successTue Jul 16 16:08:11 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 16:08:11 2024
+Connected by ('101.207.4.242', 28254)Tue Jul 16 16:09:55 2024
+Connected by ('101.207.4.242', 28274)Tue Jul 16 16:11:07 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 16:11:14 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 16:11:14 2024
+Connected by ('101.207.4.242', 28317)Tue Jul 16 16:12:42 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 16:12:48 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 16:12:48 2024
+update users set online = true where account = 0Tue Jul 16 16:12:49 2024
+update successTue Jul 16 16:12:50 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 16:12:50 2024
+Connected by ('101.207.4.242', 28729)Tue Jul 16 16:18:58 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 16:19:09 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 16:19:09 2024
+update users set online = true where account = 0Tue Jul 16 16:19:10 2024
+update successTue Jul 16 16:19:10 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 16:19:10 2024
+Connected by ('101.207.4.242', 28776)Tue Jul 16 16:21:16 2024
+SELECT * from users where account = 0 and password='';Tue Jul 16 16:21:20 2024
+Tue Jul 16 16:21:20 2024
+SELECT * from users where account = 0 and password='';Tue Jul 16 16:21:21 2024
+Tue Jul 16 16:21:21 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 16:21:24 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 16:21:24 2024
+update users set online = true where account = 0Tue Jul 16 16:21:25 2024
+update successTue Jul 16 16:21:25 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 16:21:25 2024
+Connected by ('101.207.4.242', 28784)Tue Jul 16 16:22:05 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 16:22:10 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 16:22:10 2024
+update users set online = true where account = 0Tue Jul 16 16:22:12 2024
+update successTue Jul 16 16:22:12 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 16:22:12 2024
+Connected by ('101.207.4.242', 28815)Tue Jul 16 16:29:01 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 16:29:09 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 16:29:09 2024
+update users set online = true where account = 0Tue Jul 16 16:29:10 2024
+update successTue Jul 16 16:29:10 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 16:29:10 2024
+Connected by ('101.207.4.242', 56634)Tue Jul 16 16:53:02 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 16:53:08 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 16:53:08 2024
+update users set online = true where account = 0Tue Jul 16 16:53:18 2024
+update successTue Jul 16 16:53:18 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 16:53:19 2024
+Connected by ('101.207.4.242', 56760)Tue Jul 16 16:59:23 2024
+Connected by ('101.207.4.242', 56771)Tue Jul 16 17:01:26 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:01:33 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:01:33 2024
+update users set online = true where account = 0Tue Jul 16 17:01:34 2024
+update successTue Jul 16 17:01:34 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:01:34 2024
+Connected by ('101.207.4.242', 56782)Tue Jul 16 17:02:15 2024
+SELECT * from users where account = 0 and password='';Tue Jul 16 17:02:17 2024
+Tue Jul 16 17:02:17 2024
+Connected by ('101.207.4.242', 56798)Tue Jul 16 17:02:35 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:03:09 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:03:09 2024
+update users set online = true where account = 0Tue Jul 16 17:03:11 2024
+update successTue Jul 16 17:03:11 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:03:11 2024
+Connected by ('101.207.4.242', 57028)Tue Jul 16 17:07:48 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:08:03 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:08:03 2024
+update users set online = true where account = 0Tue Jul 16 17:08:04 2024
+update successTue Jul 16 17:08:04 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:08:04 2024
+Connected by ('101.207.4.242', 57063)Tue Jul 16 17:16:15 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:16:20 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:16:20 2024
+update users set online = true where account = 0Tue Jul 16 17:16:20 2024
+update successTue Jul 16 17:16:20 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:16:21 2024
+Connected by ('101.207.4.242', 57117)Tue Jul 16 17:18:49 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:18:55 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:18:55 2024
+update users set online = true where account = 0Tue Jul 16 17:18:56 2024
+update successTue Jul 16 17:18:56 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:18:56 2024
+Connected by ('101.207.4.242', 57192)Tue Jul 16 17:20:34 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:20:40 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:20:40 2024
+update users set online = true where account = 0Tue Jul 16 17:20:41 2024
+update successTue Jul 16 17:20:41 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:20:41 2024
+Connected by ('101.207.4.242', 57209)Tue Jul 16 17:22:11 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:22:20 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:22:20 2024
+update users set online = true where account = 0Tue Jul 16 17:22:21 2024
+update successTue Jul 16 17:22:21 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:22:21 2024
+Connected by ('101.207.4.242', 57256)Tue Jul 16 17:29:41 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:29:53 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:29:53 2024
+update users set online = true where account = 0Tue Jul 16 17:29:53 2024
+update successTue Jul 16 17:29:53 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:29:53 2024
+Connected by ('101.207.4.242', 57267)Tue Jul 16 17:30:13 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:30:19 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:30:19 2024
+update users set online = true where account = 0Tue Jul 16 17:30:22 2024
+update successTue Jul 16 17:30:22 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:30:22 2024
+Connected by ('101.207.4.242', 57548)Tue Jul 16 17:36:06 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:36:11 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:36:11 2024
+update users set online = true where account = 0Tue Jul 16 17:36:13 2024
+update successTue Jul 16 17:36:13 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:36:13 2024
+Connected by ('101.207.4.242', 57668)Tue Jul 16 17:39:30 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:39:36 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:39:36 2024
+update users set online = true where account = 0Tue Jul 16 17:39:38 2024
+update successTue Jul 16 17:39:39 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:39:39 2024
+Connected by ('101.207.4.242', 57701)Tue Jul 16 17:40:40 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:40:45 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:40:45 2024
+update users set online = true where account = 0Tue Jul 16 17:40:45 2024
+update successTue Jul 16 17:40:45 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:40:45 2024
+Connected by ('101.207.4.242', 57872)Tue Jul 16 17:45:49 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 17:45:54 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 17:45:54 2024
+update users set online = true where account = 0Tue Jul 16 17:45:55 2024
+update successTue Jul 16 17:45:55 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:45:55 2024
+Connected by ('101.207.4.242', 57918)Tue Jul 16 17:47:20 2024
+SELECT * from archi where id = 1083Tue Jul 16 17:47:20 2024
+Tue Jul 16 17:47:20 2024
+Connected by ('101.207.4.242', 57937)Tue Jul 16 17:48:15 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Tue Jul 16 17:48:15 2024
+True@sql@True@sql@TrueTue Jul 16 17:48:15 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:48:15 2024
+Connected by ('101.207.4.242', 57993)Tue Jul 16 17:48:30 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Tue Jul 16 17:48:30 2024
+True@sql@True@sql@TrueTue Jul 16 17:48:30 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 17:48:30 2024
+Connected by ('101.207.4.242', 58403)Tue Jul 16 18:04:22 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 18:04:29 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 18:04:29 2024
+update users set online = true where account = 0Tue Jul 16 18:04:30 2024
+update successTue Jul 16 18:04:30 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 18:04:30 2024
+Connected by ('39.98.167.4', 45176)Tue Jul 16 18:16:10 2024
+Tue Jul 16 18:16:13 2024
+Connected by ('101.207.4.242', 58773)Tue Jul 16 18:26:55 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 18:27:00 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 18:27:00 2024
+update users set online = true where account = 0Tue Jul 16 18:27:01 2024
+update successTue Jul 16 18:27:01 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 18:27:01 2024
+Connected by ('101.207.4.242', 59077)Tue Jul 16 18:53:41 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 18:53:46 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 18:53:46 2024
+Connected by ('101.207.4.242', 59293)Tue Jul 16 18:57:09 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 18:57:15 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 18:57:15 2024
+Connected by ('101.207.4.242', 59347)Tue Jul 16 18:57:55 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 18:58:01 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 18:58:01 2024
+Connected by ('101.207.4.242', 59900)Tue Jul 16 19:12:46 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 19:12:52 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 19:12:52 2024
+Connected by ('101.207.4.242', 59930)Tue Jul 16 19:13:20 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 19:13:26 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 19:13:26 2024
+Connected by ('101.207.4.242', 60285)Tue Jul 16 19:22:41 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 19:22:46 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 19:22:46 2024
+Connected by ('101.207.4.242', 60443)Tue Jul 16 19:24:54 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 19:25:02 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 19:25:02 2024
+Connected by ('101.207.4.242', 60519)Tue Jul 16 19:25:58 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 19:26:04 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 19:26:04 2024
+Connected by ('101.207.4.242', 60615)Tue Jul 16 19:27:20 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 19:27:25 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 19:27:25 2024
+Connected by ('101.207.4.242', 60644)Tue Jul 16 19:27:55 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 19:28:00 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 19:28:00 2024
+Connected by ('101.207.4.242', 60676)Tue Jul 16 19:28:20 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 19:28:25 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 19:28:25 2024
+Connected by ('101.207.4.242', 2450)Tue Jul 16 20:26:54 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:27:00 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:27:00 2024
+Connected by ('101.207.4.242', 2494)Tue Jul 16 20:28:07 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:28:12 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:28:12 2024
+Connected by ('101.207.4.242', 2666)Tue Jul 16 20:33:41 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:33:46 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:33:47 2024
+update users set online = true where account = 0Tue Jul 16 20:33:47 2024
+update successTue Jul 16 20:33:47 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 20:33:47 2024
+Connected by ('101.207.4.242', 2689)Tue Jul 16 20:34:14 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:34:20 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:34:20 2024
+update users set online = true where account = 0Tue Jul 16 20:34:21 2024
+update successTue Jul 16 20:34:21 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 20:34:21 2024
+Connected by ('101.207.4.242', 2750)Tue Jul 16 20:36:15 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:36:20 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:36:20 2024
+update users set online = true where account = 0Tue Jul 16 20:36:21 2024
+update successTue Jul 16 20:36:21 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 20:36:21 2024
+Connected by ('101.207.4.242', 2840)Tue Jul 16 20:38:44 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:38:53 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:38:53 2024
+Connected by ('101.207.4.242', 2877)Tue Jul 16 20:39:49 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:39:54 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:39:54 2024
+Connected by ('101.207.4.242', 2922)Tue Jul 16 20:41:05 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:41:11 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:41:11 2024
+Connected by ('101.207.4.242', 2991)Tue Jul 16 20:43:02 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:43:14 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:43:14 2024
+Connected by ('101.207.4.242', 3063)Tue Jul 16 20:44:59 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:45:07 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:45:07 2024
+Connected by ('101.207.4.242', 3529)Tue Jul 16 20:51:20 2024
+Connected by ('101.207.4.242', 3774)Tue Jul 16 20:54:33 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:54:39 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:54:39 2024
+Connected by ('101.207.4.242', 3828)Tue Jul 16 20:56:01 2024
+SELECT * from users where account = 0 and password='`12345678';Tue Jul 16 20:56:07 2024
+Tue Jul 16 20:56:07 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 20:56:13 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 20:56:13 2024
+Connected by ('101.207.4.242', 4340)Tue Jul 16 21:02:19 2024
+Connected by ('101.207.4.242', 4348)Tue Jul 16 21:02:35 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:02:41 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:02:41 2024
+Connected by ('101.207.4.242', 4473)Tue Jul 16 21:05:42 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:05:47 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:05:47 2024
+Connected by ('101.207.4.242', 4503)Tue Jul 16 21:06:37 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:06:41 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:06:41 2024
+Connected by ('101.207.4.242', 4525)Tue Jul 16 21:07:17 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:07:21 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:07:21 2024
+Connected by ('101.207.4.242', 4621)Tue Jul 16 21:08:47 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:08:53 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:08:53 2024
+update users set online = true where account = 0Tue Jul 16 21:08:54 2024
+update successTue Jul 16 21:08:54 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:08:54 2024
+Connected by ('101.207.4.242', 4624)Tue Jul 16 21:08:59 2024
+SELECT * from archi where id = 1108Tue Jul 16 21:08:59 2024
+Tue Jul 16 21:08:59 2024
+Connected by ('101.207.4.242', 4637)Tue Jul 16 21:09:20 2024
+SELECT * from archi where id = 1077Tue Jul 16 21:09:20 2024
+Tue Jul 16 21:09:20 2024
+Connected by ('101.207.4.242', 4639)Tue Jul 16 21:09:28 2024
+SELECT * from archi where id = 1065Tue Jul 16 21:09:28 2024
+Tue Jul 16 21:09:28 2024
+Connected by ('101.207.4.242', 4653)Tue Jul 16 21:09:43 2024
+SELECT * from archi where id = 1085Tue Jul 16 21:09:43 2024
+Tue Jul 16 21:09:43 2024
+Connected by ('101.207.4.242', 4654)Tue Jul 16 21:09:53 2024
+SELECT * from archi where id = 1065Tue Jul 16 21:09:53 2024
+Tue Jul 16 21:09:53 2024
+Connected by ('101.207.4.242', 4746)Tue Jul 16 21:12:38 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Tue Jul 16 21:12:38 2024
+True@sql@True@sql@TrueTue Jul 16 21:12:38 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:12:38 2024
+Connected by ('211.83.126.141', 62627)Tue Jul 16 21:12:51 2024
+SELECT * from users where account = 1234 and password='12345678';Tue Jul 16 21:12:58 2024
+None@sql@1234@sql@12345678@sql@None@sql@None@sql@False@sql@NoneTue Jul 16 21:12:58 2024
+update users set online = true where account = 1234Tue Jul 16 21:12:58 2024
+update successTue Jul 16 21:12:58 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:12:59 2024
+Connected by ('101.207.4.242', 4764)Tue Jul 16 21:13:25 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:13:30 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:13:30 2024
+update users set online = true where account = 0Tue Jul 16 21:13:31 2024
+update successTue Jul 16 21:13:31 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:13:31 2024
+Connected by ('101.207.4.242', 4783)Tue Jul 16 21:14:00 2024
+SELECT * from archi where id = 1069Tue Jul 16 21:14:00 2024
+Tue Jul 16 21:14:00 2024
+Connected by ('101.207.4.242', 4826)Tue Jul 16 21:15:01 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:15:07 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:15:07 2024
+Connected by ('101.207.4.242', 5009)Tue Jul 16 21:21:02 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:21:08 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:21:08 2024
+update users set online = true where account = 0Tue Jul 16 21:21:09 2024
+update successTue Jul 16 21:21:09 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:21:09 2024
+Connected by ('101.207.4.242', 5025)Tue Jul 16 21:21:21 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:21:26 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:21:26 2024
+update users set online = true where account = 0Tue Jul 16 21:21:27 2024
+update successTue Jul 16 21:21:27 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:21:27 2024
+Connected by ('101.207.4.242', 5045)Tue Jul 16 21:22:06 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:22:10 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:22:10 2024
+update users set online = true where account = 0Tue Jul 16 21:22:11 2024
+update successTue Jul 16 21:22:11 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:22:11 2024
+Connected by ('101.207.4.242', 5059)Tue Jul 16 21:22:27 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:22:42 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:22:42 2024
+update users set online = true where account = 0Tue Jul 16 21:22:43 2024
+update successTue Jul 16 21:22:43 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:22:43 2024
+Connected by ('101.207.4.242', 5132)Tue Jul 16 21:24:37 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:24:42 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:24:42 2024
+update users set online = true where account = 0Tue Jul 16 21:24:43 2024
+update successTue Jul 16 21:24:43 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:24:43 2024
+Connected by ('101.207.4.242', 5154)Tue Jul 16 21:25:18 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:25:23 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:25:23 2024
+update users set online = true where account = 0Tue Jul 16 21:25:24 2024
+update successTue Jul 16 21:25:24 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:25:24 2024
+Connected by ('101.207.4.242', 5171)Tue Jul 16 21:25:52 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:26:00 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:26:00 2024
+update users set online = true where account = 0Tue Jul 16 21:26:01 2024
+update successTue Jul 16 21:26:01 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:26:01 2024
+Connected by ('101.207.4.242', 5244)Tue Jul 16 21:26:44 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:26:48 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:26:48 2024
+update users set online = true where account = 0Tue Jul 16 21:26:49 2024
+update successTue Jul 16 21:26:49 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:26:49 2024
+Connected by ('101.207.4.242', 5338)Tue Jul 16 21:28:48 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:28:56 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:28:56 2024
+update users set online = true where account = 0Tue Jul 16 21:30:03 2024
+update successTue Jul 16 21:30:03 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:30:14 2024
+Connected by ('101.207.4.242', 5506)Tue Jul 16 21:31:13 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:31:17 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:31:17 2024
+update users set online = true where account = 0Tue Jul 16 21:31:20 2024
+update successTue Jul 16 21:31:20 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:31:20 2024
+Connected by ('101.207.4.242', 5576)Tue Jul 16 21:32:08 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:32:13 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:32:13 2024
+update users set online = true where account = 0Tue Jul 16 21:32:16 2024
+update successTue Jul 16 21:32:16 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:32:16 2024
+Connected by ('101.207.4.242', 6252)Tue Jul 16 21:42:06 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:42:12 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:42:12 2024
+update users set online = true where account = 0Tue Jul 16 21:42:14 2024
+update successTue Jul 16 21:42:14 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:42:14 2024
+Connected by ('101.207.4.242', 6316)Tue Jul 16 21:43:01 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:43:06 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:43:06 2024
+update users set online = true where account = 0Tue Jul 16 21:43:09 2024
+update successTue Jul 16 21:43:09 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:43:09 2024
+Connected by ('101.207.4.242', 6500)Tue Jul 16 21:47:34 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:48:13 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:48:13 2024
+update users set online = true where account = 0Tue Jul 16 21:48:15 2024
+update successTue Jul 16 21:48:15 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:48:15 2024
+Connected by ('101.207.4.242', 6574)Tue Jul 16 21:49:35 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:49:41 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:49:41 2024
+update users set online = true where account = 0Tue Jul 16 21:49:42 2024
+update successTue Jul 16 21:49:42 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:49:42 2024
+Connected by ('101.207.4.242', 6639)Tue Jul 16 21:51:33 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:51:37 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:51:38 2024
+update users set online = true where account = 0Tue Jul 16 21:51:38 2024
+update successTue Jul 16 21:51:38 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:51:38 2024
+Connected by ('101.207.4.242', 6683)Tue Jul 16 21:52:40 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:52:48 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:52:48 2024
+update users set online = true where account = 0Tue Jul 16 21:52:49 2024
+update successTue Jul 16 21:52:49 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:52:49 2024
+Connected by ('101.207.4.242', 6685)Tue Jul 16 21:52:57 2024
+SELECT * from archi where id = -842150451Tue Jul 16 21:52:57 2024
+Tue Jul 16 21:52:57 2024
+Connected by ('101.207.4.242', 6686)Tue Jul 16 21:53:01 2024
+SELECT * from archi where id = -842150451Tue Jul 16 21:53:01 2024
+Tue Jul 16 21:53:01 2024
+Connected by ('101.207.4.242', 6687)Tue Jul 16 21:53:02 2024
+SELECT * from archi where id = -842150451Tue Jul 16 21:53:02 2024
+Tue Jul 16 21:53:02 2024
+Connected by ('101.207.4.242', 6689)Tue Jul 16 21:53:06 2024
+SELECT * from archi where id = -842150451Tue Jul 16 21:53:06 2024
+Tue Jul 16 21:53:06 2024
+Connected by ('101.207.4.242', 6780)Tue Jul 16 21:55:06 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 21:55:12 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 21:55:12 2024
+update users set online = true where account = 0Tue Jul 16 21:55:13 2024
+update successTue Jul 16 21:55:13 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 21:55:13 2024
+Connected by ('211.83.127.38', 11079)Tue Jul 16 22:00:42 2024
+SELECT * from users where account = 1989 and password='taylor13';Tue Jul 16 22:00:55 2024
+None@sql@1989@sql@taylor13@sql@True@sql@True@sql@False@sql@TrueTue Jul 16 22:00:55 2024
+update users set online = true where account = 1989Tue Jul 16 22:00:55 2024
+update successTue Jul 16 22:00:55 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 22:00:55 2024
+Connected by ('101.207.4.242', 44293)Tue Jul 16 22:32:49 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 22:32:53 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 22:32:53 2024
+update users set online = true where account = 0Tue Jul 16 22:32:54 2024
+update successTue Jul 16 22:32:54 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 22:32:54 2024
+Connected by ('101.207.4.242', 44379)Tue Jul 16 22:35:59 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 22:36:04 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 22:36:04 2024
+update users set online = true where account = 0Tue Jul 16 22:36:05 2024
+update successTue Jul 16 22:36:05 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 22:36:05 2024
+Connected by ('101.207.4.242', 44440)Tue Jul 16 22:37:56 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 22:38:00 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 22:38:00 2024
+update users set online = true where account = 0Tue Jul 16 22:38:01 2024
+update successTue Jul 16 22:38:01 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 22:38:01 2024
+Connected by ('101.207.4.242', 44452)Tue Jul 16 22:38:08 2024
+SELECT * from archi where id = 1100Tue Jul 16 22:38:08 2024
+Tue Jul 16 22:38:08 2024
+Connected by ('101.207.4.242', 44456)Tue Jul 16 22:38:16 2024
+SELECT * from archi where id = 1101Tue Jul 16 22:38:16 2024
+Tue Jul 16 22:38:16 2024
+Connected by ('101.207.4.242', 44472)Tue Jul 16 22:39:00 2024
+SELECT * from archi where id = 1086Tue Jul 16 22:39:00 2024
+Tue Jul 16 22:39:00 2024
+Connected by ('101.207.4.242', 45622)Tue Jul 16 23:11:23 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 23:11:28 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 23:11:28 2024
+update users set online = true where account = 0Tue Jul 16 23:11:29 2024
+update successTue Jul 16 23:11:29 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 23:11:29 2024
+Connected by ('101.207.4.242', 45656)Tue Jul 16 23:12:31 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 23:12:36 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 23:12:36 2024
+update users set online = true where account = 0Tue Jul 16 23:12:37 2024
+update successTue Jul 16 23:12:37 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 23:12:37 2024
+Connected by ('101.207.4.242', 45714)Tue Jul 16 23:14:03 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 23:14:08 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 23:14:08 2024
+update users set online = true where account = 0Tue Jul 16 23:14:09 2024
+update successTue Jul 16 23:14:09 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 23:14:09 2024
+Connected by ('101.207.4.242', 45863)Tue Jul 16 23:19:03 2024
+SELECT * from users where account = 0 and password='12345678';Tue Jul 16 23:19:09 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueTue Jul 16 23:19:09 2024
+update users set online = true where account = 0Tue Jul 16 23:19:10 2024
+update successTue Jul 16 23:19:10 2024
+<built-in function id> of Client is disconnected...Tue Jul 16 23:19:10 2024
+Connected by ('101.207.4.242', 50713)Wed Jul 17 00:13:57 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 00:14:04 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 00:14:04 2024
+update users set online = true where account = 0Wed Jul 17 00:14:05 2024
+update successWed Jul 17 00:14:05 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 00:14:05 2024
+Connected by ('101.207.4.242', 50720)Wed Jul 17 00:15:46 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 00:15:52 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 00:15:52 2024
+update users set online = true where account = 0Wed Jul 17 00:15:53 2024
+update successWed Jul 17 00:15:53 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 00:15:53 2024
+Connected by ('101.207.4.242', 50748)Wed Jul 17 00:17:14 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 00:17:22 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 00:17:22 2024
+update users set online = true where account = 0Wed Jul 17 00:17:23 2024
+update successWed Jul 17 00:17:23 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 00:17:23 2024
+Connected by ('101.207.4.242', 50750)Wed Jul 17 00:17:58 2024
+SELECT * from archi where id = -842150451Wed Jul 17 00:17:58 2024
+Wed Jul 17 00:17:58 2024
+Connected by ('101.207.4.242', 50764)Wed Jul 17 00:19:35 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 00:19:39 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 00:19:39 2024
+update users set online = true where account = 0Wed Jul 17 00:19:40 2024
+update successWed Jul 17 00:19:40 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 00:19:40 2024
+Connected by ('101.207.4.242', 50777)Wed Jul 17 00:20:46 2024
+SELECT * from archi where id = -842150451Wed Jul 17 00:20:46 2024
+Wed Jul 17 00:20:46 2024
+Connected by ('101.207.4.242', 50782)Wed Jul 17 00:21:36 2024
+SELECT * from archi where id = -842150451Wed Jul 17 00:21:36 2024
+Wed Jul 17 00:21:36 2024
+Connected by ('39.98.46.35', 53768)Wed Jul 17 00:30:41 2024
+GET / HTTP/1.1
+Host: 121.36.19.243:9998
+User-Agent: Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+Accept: */*
+Accept-Encoding: deflate, gzip
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+Wed Jul 17 00:30:41 2024
+Connected by ('39.98.46.35', 56396)Wed Jul 17 00:31:07 2024
+GET / HTTP/1.1
+Host: 121.36.19.243:9998
+User-Agent: Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+Accept: */*
+Accept-Encoding: deflate, gzip
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+Wed Jul 17 00:31:07 2024
+Connected by ('39.98.46.35', 58850)Wed Jul 17 00:31:32 2024
+Connected by ('39.98.46.35', 60740)Wed Jul 17 00:31:57 2024
+Connected by ('39.98.46.35', 34432)Wed Jul 17 00:32:23 2024
+Connected by ('39.98.46.35', 36130)Wed Jul 17 00:32:48 2024
+Connected by ('39.98.46.35', 38768)Wed Jul 17 00:33:13 2024
+Connected by ('39.98.46.35', 40826)Wed Jul 17 00:33:39 2024
+Connected by ('39.98.46.35', 41008)Wed Jul 17 00:33:42 2024
+Connected by ('39.98.46.35', 57852)Wed Jul 17 00:36:43 2024
+sysinfoWed Jul 17 00:36:43 2024
+Connected by ('39.98.46.35', 60258)Wed Jul 17 00:37:10 2024
+Wed Jul 17 00:37:20 2024
+Connected by ('39.98.46.35', 32800)Wed Jul 17 00:37:20 2024
+Connected by ('39.98.46.35', 33196)Wed Jul 17 00:37:23 2024
+OPTIONS / HTTP/1.1
+
+Wed Jul 17 00:37:23 2024
+Connected by ('39.98.46.35', 34828)Wed Jul 17 00:37:49 2024
+
+
+Wed Jul 17 00:37:49 2024
+Connected by ('39.98.46.35', 37974)Wed Jul 17 00:38:15 2024
+   root Wed Jul 17 00:38:15 2024
+Connected by ('101.207.4.242', 51086)Wed Jul 17 00:40:00 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 00:40:07 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 00:40:07 2024
+update users set online = true where account = 0Wed Jul 17 00:40:08 2024
+update successWed Jul 17 00:40:08 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 00:40:08 2024
+Connected by ('101.207.4.242', 51102)Wed Jul 17 00:41:16 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 00:41:20 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 00:41:20 2024
+update users set online = true where account = 0Wed Jul 17 00:41:21 2024
+update successWed Jul 17 00:41:21 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 00:41:21 2024
+Connected by ('101.207.4.242', 51248)Wed Jul 17 00:45:46 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 00:45:55 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 00:45:55 2024
+update users set online = true where account = 0Wed Jul 17 00:45:56 2024
+update successWed Jul 17 00:45:56 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 00:45:56 2024
+Connected by ('101.207.4.242', 51318)Wed Jul 17 00:50:07 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 00:51:38 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 00:51:38 2024
+update users set online = true where account = 0Wed Jul 17 00:51:39 2024
+update successWed Jul 17 00:51:39 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 00:51:40 2024
+Connected by ('101.207.4.242', 51373)Wed Jul 17 00:53:49 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Wed Jul 17 00:53:49 2024
+True@sql@True@sql@TrueWed Jul 17 00:53:49 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 00:53:49 2024
+Connected by ('101.207.4.242', 51457)Wed Jul 17 00:59:08 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 00:59:55 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 00:59:55 2024
+update users set online = true where account = 0Wed Jul 17 00:59:56 2024
+update successWed Jul 17 00:59:56 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 00:59:56 2024
+Connected by ('101.207.4.242', 51482)Wed Jul 17 01:01:16 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 01:01:33 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 01:01:33 2024
+update users set online = true where account = 0Wed Jul 17 01:01:34 2024
+update successWed Jul 17 01:01:34 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 01:01:34 2024
+Connected by ('101.207.4.242', 51484)Wed Jul 17 01:01:37 2024
+SELECT * from archi where id = -842150451Wed Jul 17 01:01:37 2024
+Wed Jul 17 01:01:37 2024
+Connected by ('101.207.4.242', 51485)Wed Jul 17 01:01:38 2024
+SELECT * from archi where id = 1001Wed Jul 17 01:01:38 2024
+1001@sql@:/new/prefix1/resource/archi/library.jpg@sql@图书馆@sql@:/new/prefix1/resource/archi/library.jpg@sql@https://lib.scu.edu.cn/@sql@file:///D:/MyWork/Project/Qt/SCUnegvator/resource/infoHtml/library/index.html@sql@21527457Wed Jul 17 01:01:38 2024
+Connected by ('101.207.4.242', 51593)Wed Jul 17 01:07:38 2024
+SELECT * from archi where id = 1064Wed Jul 17 01:07:38 2024
+Wed Jul 17 01:07:38 2024
+Connected by ('101.207.4.242', 50655)Wed Jul 17 09:06:47 2024
+SELECT * from users where account = 0 and password='12345678';Wed Jul 17 09:07:08 2024
+root@sql@0@sql@12345678@sql@True@sql@True@sql@True@sql@TrueWed Jul 17 09:07:08 2024
+update users set online = true where account = 0Wed Jul 17 09:07:10 2024
+update successWed Jul 17 09:07:10 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 09:07:10 2024
+Connected by ('101.207.4.242', 50669)Wed Jul 17 09:08:51 2024
+SELECT canchat,canjoin,isroot FROM users WHERE account = 0 Wed Jul 17 09:08:51 2024
+True@sql@True@sql@TrueWed Jul 17 09:08:51 2024
+<built-in function id> of Client is disconnected...Wed Jul 17 09:08:51 2024
+Connected by ('101.207.4.242', 50710)Wed Jul 17 09:10:50 2024
+SELECT * from archi where id = 1001Wed Jul 17 09:10:50 2024
+1001@sql@:/new/prefix1/resource/archi/library.jpg@sql@图书馆@sql@:/new/prefix1/resource/archi/library.jpg@sql@https://lib.scu.edu.cn/@sql@file:///D:/MyWork/Project/Qt/SCUnegvator/resource/infoHtml/library/index.html@sql@21527457Wed Jul 17 09:10:50 2024
+Connected by ('101.207.4.242', 50802)Wed Jul 17 09:14:09 2024
+SELECT * from archi where id = 1085Wed Jul 17 09:14:09 2024
+Wed Jul 17 09:14:09 2024
